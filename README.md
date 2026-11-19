@@ -7,6 +7,7 @@ The project brings together tender discovery, bidder compliance review, risk ind
 > **Project status:** Prototype / demonstration application. The repository includes sample tender and bidder records, generated verification examples, and fallback scraper data. Do not treat displayed verification results, risk scores, bidder identities, or audit entries as authoritative government records unless independently validated against the relevant official source.
 
 ---
+<img width="1893" height="910" alt="image" src="https://github.com/user-attachments/assets/868a741b-526d-49ff-969a-a523602b544b" />
 
 ## Contents
 
