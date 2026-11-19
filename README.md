@@ -8,6 +8,10 @@ The project brings together tender discovery, bidder compliance review, risk ind
 
 ---
 <img width="1893" height="910" alt="image" src="https://github.com/user-attachments/assets/868a741b-526d-49ff-969a-a523602b544b" />
+<img width="1641" height="897" alt="image" src="https://github.com/user-attachments/assets/5a72c5fd-db3f-4009-a0fa-236c340647a7" />
+<img width="1602" height="917" alt="Screenshot 2026-11-19 163506" src="https://github.com/user-attachments/assets/402936db-1616-4103-8c0d-58331f3e0f81" />
+<img width="1677" height="906" alt="Screenshot 2026-11-19 163456" src="https://github.com/user-attachments/assets/5b4f6d28-2ea6-4b3f-9790-d69c2cf79d69" />
+
 
 ## Contents
 
